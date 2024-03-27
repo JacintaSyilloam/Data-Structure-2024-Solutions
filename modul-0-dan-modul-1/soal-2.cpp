@@ -1,3 +1,6 @@
+//Soal 2
+/*SYL Rental*/
+
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
